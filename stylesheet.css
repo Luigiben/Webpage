@@ -1,0 +1,12 @@
+body {
+        background-color: #ffcf79
+}
+h1  {
+        background-color:cornflowerblue;
+        border-bottom: 3px solid black;
+        color: aliceblue;
+        font-family: helvetica;
+}
+p {
+    color:green
+}
